@@ -1,1 +1,3 @@
-# CPP_TTA
+Week 1 C++
+  > circumference.cpp
+  > cIsBest.cpp
